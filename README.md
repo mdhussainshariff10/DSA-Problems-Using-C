@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mdhussainshariff10/DSA-Problems-Using-C/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/mdhussainshariff10/DSA-Problems-Using-C/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
